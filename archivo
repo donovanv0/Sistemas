@@ -1,1 +1,2 @@
 echo "Este es un archivo nuevo" > nuevo.txt
+echo "<!-- Modificado -->" >> nuevo.txt
